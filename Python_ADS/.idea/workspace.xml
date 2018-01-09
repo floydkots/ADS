@@ -17,25 +17,40 @@
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_longest_common_prefix_py.coverage" NAME="Unittests in test_longest_common_prefix.py Coverage Results" MODIFIED="1515493050405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_for_two_sum_test_two_sum_TestTwoSum_test_with_4_item_array.coverage" NAME="Unittests for easy.two_sum.test_two_sum.TestTwoSum.test_with_4_item_array Coverage Results" MODIFIED="1513062196662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_for_reverse_integer_test_reverse_integer_TestReverseInteger2.coverage" NAME="Unittests for reverse_integer.test_reverse_integer.TestReverseInteger2 Coverage Results" MODIFIED="1513068861846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/Python_ADS$Unittests_for_valid_parentheses_test_valid_parentheses_TestValidParentheses_test_returns_false_for_string_with_odd_length.coverage" NAME="Unittests for valid_parentheses.test_valid_parentheses.TestValidParentheses.test_returns_false_for_string_with_odd_length Coverage Results" MODIFIED="1515496163859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_valid_parentheses_py.coverage" NAME="Unittests in test_valid_parentheses.py Coverage Results" MODIFIED="1515497456806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_for_reverse_integer_test_reverse_integer_TestReverseInteger.coverage" NAME="Unittests for reverse_integer.test_reverse_integer.TestReverseInteger Coverage Results" MODIFIED="1513067327116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="longest_common_prefix.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/longest_common_prefix/longest_common_prefix.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/valid_parentheses/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="190">
+                <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="valid_parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/valid_parentheses/valid_parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_longest_common_prefix.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/longest_common_prefix/test_longest_common_prefix.py">
+      <file leaf-file-name="test_valid_parentheses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/valid_parentheses/test_valid_parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="103">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="40" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -72,6 +87,9 @@
         <option value="$PROJECT_DIR$/easy/longest_common_prefix/README.md" />
         <option value="$PROJECT_DIR$/easy/longest_common_prefix/test_longest_common_prefix.py" />
         <option value="$PROJECT_DIR$/easy/longest_common_prefix/longest_common_prefix.py" />
+        <option value="$PROJECT_DIR$/easy/valid_parentheses/README.md" />
+        <option value="$PROJECT_DIR$/easy/valid_parentheses/test_valid_parentheses.py" />
+        <option value="$PROJECT_DIR$/easy/valid_parentheses/valid_parentheses.py" />
       </list>
     </option>
   </component>
@@ -82,7 +100,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="9" />
     <option name="y" value="28" />
     <option name="width" value="685" />
     <option name="height" value="729" />
@@ -154,18 +172,6 @@
               <item name="Python_ADS" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_ADS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_ADS" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="longest_common_prefix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_ADS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_ADS" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="two_sum" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -178,6 +184,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -196,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix">
+  <component name="RunManager" selected="Python.valid_parentheses">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,20 +270,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="roman_to_integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="valid_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy/roman_to_integer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy/valid_parentheses" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_ADS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/roman_to_integer/roman_to_integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/valid_parentheses/valid_parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +335,7 @@
       <option name="_new_target" value="&quot;longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for palindrome_number.test_palindrome_number.TestPalindromeNumber" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for valid_parentheses.test_valid_parentheses.TestValidParentheses.test_returns_false_for_string_with_odd_length" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -338,7 +347,7 @@
       <module name="Python_ADS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;palindrome_number.test_palindrome_number.TestPalindromeNumber&quot;" />
+      <option name="_new_target" value="&quot;valid_parentheses.test_valid_parentheses.TestValidParentheses.test_returns_false_for_string_with_odd_length&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests in test_longest_common_prefix.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -356,7 +365,7 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/easy/longest_common_prefix/test_longest_common_prefix.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="Unittests in test_roman_to_integer.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_valid_parentheses.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -368,7 +377,7 @@
       <module name="Python_ADS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/easy/roman_to_integer/test_roman_to_integer.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/easy/valid_parentheses/test_valid_parentheses.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -453,19 +462,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for palindrome_number.test_palindrome_number.TestPalindromeNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Python.roman_to_integer" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_roman_to_integer.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_longest_common_prefix.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_longest_common_prefix.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for valid_parentheses.test_valid_parentheses.TestValidParentheses.test_returns_false_for_string_with_odd_length" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_valid_parentheses.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.valid_parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_longest_common_prefix.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_roman_to_integer.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.roman_to_integer" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for palindrome_number.test_palindrome_number.TestPalindromeNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.valid_parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_valid_parentheses.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for valid_parentheses.test_valid_parentheses.TestValidParentheses.test_returns_false_for_string_with_odd_length" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_longest_common_prefix.py" />
       </list>
     </recent_temporary>
   </component>
@@ -486,52 +495,54 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 18m 55s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 12m 36s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 22m 28s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 17m 53s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 22m 30s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 18m 21s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 26m 26s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 18m 29s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 26m 28s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 19m 36s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 31m 09s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 19m 38s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 31m 10s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 19m 56s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 41m 14s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 20m 09s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 47m 18s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 30m 57s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_longest_common_prefix_test_longest_common_prefix_TestLongestCommonPrefix_test_returns_longest_prefix - 2018.01.09 at 13h 50m 49s.xml">
-      <configuration name="Unittests for longest_common_prefix.test_longest_common_prefix.TestLongestCommonPrefix.test_returns_longest_prefix" configurationId="tests" />
+    <history-entry file="Unittests_in_test_valid_parentheses_py - 2018.01.09 at 14h 31m 29s.xml">
+      <configuration name="Unittests in test_valid_parentheses.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="28" width="685" height="729" extended-state="0" />
+    <frame x="9" y="28" width="685" height="729" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4883721" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22121212" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35054773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35054773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3654485" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -563,8 +574,13 @@
           <line>22</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/easy/valid_parentheses/test_valid_parentheses.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -755,9 +771,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/easy/longest_common_prefix/longest_common_prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/easy/longest_common_prefix/test_longest_common_prefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="360">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -765,10 +789,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/longest_common_prefix/longest_common_prefix.py">
+    <entry file="file://$PROJECT_DIR$/easy/valid_parentheses/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="190">
+            <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/valid_parentheses/test_valid_parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="103">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/valid_parentheses/valid_parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
