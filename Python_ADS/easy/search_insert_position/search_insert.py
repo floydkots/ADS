@@ -4,6 +4,7 @@ def search_insert(nums, target):
     :param target: int
     :return: int
     """
+    # return search_insert_brute(nums, target)
     return search_insert_binary(nums, target)
 
 
@@ -24,7 +25,7 @@ def search_insert_binary(nums, target):
         return 0
     half = len(nums) // 2
     if not half:
-            return half + 1 if target > nums[0] else half
+        return half + 1 if target > nums[0] else half
     if target > nums[half]:
         return half + search_insert_binary(nums[half:], target)
     elif target < nums[half]:
