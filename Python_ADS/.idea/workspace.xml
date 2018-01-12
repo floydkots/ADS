@@ -23,18 +23,44 @@
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_merge_two_sorted_lists_py.coverage" NAME="Unittests in test_merge_two_sorted_lists.py Coverage Results" MODIFIED="1515511064256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/Python_ADS$roman_to_integer.coverage" NAME="roman_to_integer Coverage Results" MODIFIED="1515477406508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy/roman_to_integer" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_longest_common_prefix_py.coverage" NAME="Unittests in test_longest_common_prefix.py Coverage Results" MODIFIED="1515493050405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_count_and_say_py.coverage" NAME="Unittests in test_count_and_say.py Coverage Results" MODIFIED="1515743421591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_remove_element_py.coverage" NAME="Unittests in test_remove_element.py Coverage Results" MODIFIED="1515584911410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_in_test_search_insert_py.coverage" NAME="Unittests in test_search_insert.py Coverage Results" MODIFIED="1515735531000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/Python_ADS$Unittests_for_reverse_integer_test_reverse_integer_TestReverseInteger.coverage" NAME="Unittests for reverse_integer.test_reverse_integer.TestReverseInteger Coverage Results" MODIFIED="1513067327116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="search_insert.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/search_insert_position/search_insert.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/count_and_say/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="375">
+                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count_and_say.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/count_and_say/count_and_say.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="422">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_count_and_say.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/count_and_say/test_count_and_say.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +113,9 @@
         <option value="$PROJECT_DIR$/easy/search_insert_position/README.md" />
         <option value="$PROJECT_DIR$/easy/search_insert_position/test_search_insert.py" />
         <option value="$PROJECT_DIR$/easy/search_insert_position/search_insert.py" />
+        <option value="$PROJECT_DIR$/easy/count_and_say/README.md" />
+        <option value="$PROJECT_DIR$/easy/count_and_say/test_count_and_say.py" />
+        <option value="$PROJECT_DIR$/easy/count_and_say/count_and_say.py" />
       </list>
     </option>
   </component>
@@ -174,7 +203,7 @@
               <item name="Python_ADS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_ADS" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="search_insert_position" type="462c0819:PsiDirectoryNode" />
+              <item name="count_and_say" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_search_insert.py">
+  <component name="RunManager" selected="Python tests.Unittests in test_count_and_say.py">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,7 +367,7 @@
       <option name="_new_target" value="&quot;test_strstr.TestStrStr.test_0_finds_character_string&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in test_remove_element.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_count_and_say.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -350,7 +379,7 @@
       <module name="Python_ADS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/easy/remove_element/test_remove_element.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/easy/count_and_say/test_count_and_say.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_search_insert.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -465,19 +494,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_remove_element.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_strstr.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.strstr" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_strstr.TestStrStr.test_0_finds_character_string" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_search_insert.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_strstr.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.strstr" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_strstr.TestStrStr.test_0_finds_character_string" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_search_insert.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_count_and_say.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_search_insert.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_strstr.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_strstr.TestStrStr.test_0_finds_character_string" />
-        <item index="3" class="java.lang.String" itemvalue="Python.strstr" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_remove_element.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_count_and_say.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_search_insert.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_strstr.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_strstr.TestStrStr.test_0_finds_character_string" />
+        <item index="4" class="java.lang.String" itemvalue="Python.strstr" />
       </list>
     </recent_temporary>
   </component>
@@ -498,35 +527,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 27m 53s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 42m 59s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 28m 12s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 44m 08s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 29m 07s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 45m 20s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 29m 09s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 48m 49s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 31m 44s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 48m 52s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 31m 46s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 49m 39s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 33m 24s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 49m 54s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 33m 26s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 50m 06s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 38m 22s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 50m 20s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_insert_py - 2018.01.12 at 08h 38m 51s.xml">
-      <configuration name="Unittests in test_search_insert.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_count_and_say_py - 2018.01.12 at 10h 50m 21s.xml">
+      <configuration name="Unittests in test_count_and_say.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -547,16 +576,16 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4848485" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38914728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48372093" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3875969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22348484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25354332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5023256" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40155038" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34728682" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -611,11 +640,16 @@
           <line>9</line>
           <option name="timeStamp" value="147" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/easy/count_and_say/test_count_and_say.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="158" />
+      <option name="time" value="164" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -669,27 +703,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/implement_strStr()/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/implement_strStr()/test_strstr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/implement_strStr()/strstr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1084,6 +1097,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/count_and_say/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/count_and_say/test_count_and_say.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/count_and_say/count_and_say.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
